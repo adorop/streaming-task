@@ -1,0 +1,8 @@
+{
+  "processingType": "streaming",
+  "kafkaBootstrapServers": "sandbox-hdp.hortonworks.com:6667",
+  "kafkaTopic": "perf_comparision_topic",
+  "outputPath": "hdfs://sandbox-hdp.hortonworks.com/user/aliaksei/performance_comparison/stream",
+  "checkpointingDir": "hdfs://sandbox-hdp.hortonworks.com/user/aliaksei/chckpnt",
+  "sink": "csv"
+}

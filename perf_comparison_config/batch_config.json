@@ -1,0 +1,7 @@
+{
+  "processingType": "batch",
+  "kafkaBootstrapServers": "sandbox-hdp.hortonworks.com:6667",
+  "kafkaTopic": "perf_comparision_topic",
+  "outputPath": "hdfs://sandbox-hdp.hortonworks.com/user/aliaksei/performance_comparison/batch",
+  "sink": "csv"
+}

@@ -1,0 +1,6 @@
+KAFKA_SOURCE_FORMAT = 'kafka'
+KAFKA_BOOTSTRAP_SERVERS_OPTION = 'kafka.bootstrap.servers'
+KAFKA_TOPIC_OPTION = 'subscribe'
+OUTPUT_LOCATION_OPTION = 'path'
+CSV_OUTPUT_FORMAT = 'csv'
+ELASTICSEARCH_OUTPUT_FORMAT = 'org.elasticsearch.spark.sql'
